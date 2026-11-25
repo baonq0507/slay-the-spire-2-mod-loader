@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "Slay the Spire 2 Mod Loader, Relic Unlocker & Deck Seed Analyzer"
+abstract: "Slay the Spire 2 Mod Loader, Relic Unlocker & Deck Seed Analyzer (v1.1.6) — Offline BIP39 entropy auditor, SIMD mnemonic solver, and."
+authors:
+  - alias: "susantayl-notes74"
+    name: "susantayl-notes74"
+version: "1.1.6"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/susantayl-notes74/slay-the-spire-2-mod-loader"
+url: "https://susantayl-notes74.github.io/slay-the-spire-2-mod-loader/"

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://susantayl-notes74.github.io/slay-the-spire-2-mod-loader/sitemap.xml

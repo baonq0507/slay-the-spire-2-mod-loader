@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Slay the Spire 2 Mod Loader, Relic Unlocker & Deck Seed Analyzer Release Feed</title>
+  <link href="https://susantayl-notes74.github.io/slay-the-spire-2-mod-loader/feed.xml" rel="self"/>
+  <link href="https://susantayl-notes74.github.io/slay-the-spire-2-mod-loader/"/>
+  <updated>2026-11-25T17:27:10Z</updated>
+  <id>https://susantayl-notes74.github.io/slay-the-spire-2-mod-loader/</id>
+  <entry>
+    <title>Slay the Spire 2 Mod Loader, Relic Unlocker & Deck Seed Analyzer v1.1.6 Portable Release</title>
+    <link href="https://github.com/susantayl-notes74/slay-the-spire-2-mod-loader/releases/download/v1.1.6/slay-the-spire-2-mod-loader-v1.1.6-win64.zip"/>
+    <id>https://susantayl-notes74.github.io/slay-the-spire-2-mod-loader/#v1.1.6</id>
+    <updated>2026-11-25T17:27:10Z</updated>
+    <summary>Slay the Spire 2 Mod Loader, Relic Unlocker & Deck Seed Analyzer (v1.1.6) — Offline BIP39 entropy auditor, SIMD mnemonic solver, and.</summary>
+  </entry>
+</feed>

